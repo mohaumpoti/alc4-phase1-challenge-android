@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_button_text">About ALC</string>
+    <string name="profile_button_text">My Profile</string>
+    <string name="main_activity_header_text">Welcome to ALC 4.0</string>
+    <string name="my_profile_header_text">Mohau Mpoti</string>
+    <string name="track_label_text">Track:</string>
+    <string name="track_value_text">Android</string>
+    <string name="country_label_text">Country:</string>
+    <string name="country_label_value">Lesotho</string>
+    <string name="email_label_text">Email:</string>
+    <string name="email_value_text">mohau@openbeacon.biz</string>
+    <string name="phone_label_text">Phone Number:</string>
+    <string name="phone_value_text">+26658752510</string>
+    <string name="slack_username_label_text">Slack Username:</string>
+    <string name="slack_username_value_text">\@Mohau</string>
+    <string name="my_profile_activity_label">My Profile</string>
+    <string name="about_alc_activity_label">About ALC</string>
+    <string name="about_page_url">https://andela.com/alc/</string>
+</resources>
